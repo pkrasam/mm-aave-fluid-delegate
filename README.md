@@ -1,3 +1,3 @@
-# Aave Code Examples
+# MarketMake Aave Fluid Delegate
 
-This repository is for example code relating to the Aave Protocol, for developers to use either as reference examples or starters. 
+A depositor is able to delegate fluidly (continuous | instant) to a borrower.
