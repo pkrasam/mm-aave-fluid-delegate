@@ -11,6 +11,7 @@ To make this happen, I have chosen to protocols:
 **Aave** for its credit delgation feature.
 
 ## Userflow
+
 1. One depositor streaming money to One borrower
 2. Many depositor(s) streaming money to One borrower
 3. Many depositor(s) streaming money to Many borrower(s)
@@ -19,13 +20,14 @@ To make this happen, I have chosen to protocols:
 
 The above 3 userflow(s) are depicted as such
 
-[images/diag-mm-aave-fluid-delegate-superapp.png]
+![Userflow Diagram](images/diag-mm-aave-fluid-delegate-superapp.png)
 
 ## Functions
 
 After reviewing the documenation for Superfluid and Aave, I am at the understanding that the following functions will be required to construct.
 
 ### Superfluid Continuous Flow Agreement (CFA)
+
 - user()
 - flow()
 - createFlow()
@@ -33,17 +35,20 @@ After reviewing the documenation for Superfluid and Aave, I am at the understand
 - deleteFlow()
 
 ### Superfluid Instant Distribution Agreement (IDA)
+
 - createPool()
 - giveShares()
 - distributeToPool()
 
 ### Aave Credit Delegation (CD)
+
 - approve Delegation()
 - borrow()
 - repay()
 - borrowAllowance()
 
 ## Reference
+
 [CFA](https://docs.superfluid.finance/superfluid/protocol-tutorials/create-a-superfluid-flow)
 
 [IDA](https://docs.superfluid.finance/superfluid/protocol-tutorials/perform-an-instant-distribution)
