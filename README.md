@@ -39,5 +39,7 @@ After reviewing the documenation for Superfluid and Aave, I am at the understand
 
 ### Reference
 [CFA](https://docs.superfluid.finance/superfluid/protocol-tutorials/create-a-superfluid-flow)
+
 [IDA](https://docs.superfluid.finance/superfluid/protocol-tutorials/perform-an-instant-distribution)
+
 [CD](https://docs.aave.com/developers/guides/credit-delegation)
