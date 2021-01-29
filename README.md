@@ -6,8 +6,10 @@ A depositor/sender is able to delegate fluidly (continuous | instant) to a borro
 
 At a high level, I want to explore the possibility of building a **SuperApp** that enables a `depositor` to stream money to a `borrower`.
 
-To make this happen, I have chosen to protocols:
+To make this happen, I have chosenn the following protocols:
+
 **Superfluid** for its streaming money feature.
+
 **Aave** for its credit delgation feature.
 
 ## Userflow
