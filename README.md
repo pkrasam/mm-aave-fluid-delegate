@@ -22,7 +22,7 @@ To make this happen, I have chosenn the following protocols:
 
 The above 3 userflow(s) are depicted as such
 
-![Userflow Diagram](images/diag-mm-aave-fluid-delegate-superapp.png)
+![Userflow Diagram](images/diag-transparent-mm-aave-fluid-delegate-superapp.png)
 
 ## Functions
 
